@@ -1,0 +1,25 @@
+= Mule ESB Continuous Delivery using Jenkins Pipelines
+Chad Gorshing <https://github.com/cgorshing[@cgorshing]>
+
+Beginning documentation for possible ways to provide continus delivery using Jenkins Pipelines.
+
+== Overview
+
+
+== Installation
+
+
+=== Manual Installation
+
+
+== About the Project
+
+
+=== Authors
+
+
+=== Copyright and License
+
+Copyright (C) 2017 Chad Gorshing.
+Free use of this software is granted under the terms of the MIT License.
+See <<LICENSE#,LICENSE>> for details.
